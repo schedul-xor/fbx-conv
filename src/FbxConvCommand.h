@@ -95,7 +95,7 @@ struct FbxConvCommand {
 	}
 
 	void printHelp() const {
-		printf("Usage: fbx-conv.exe [options] <input> [<output>]\n");
+		printf("Usage: <CUSTOMIZED> fbx-conv.exe [options] <input> [<output>]\n");
 		printf("\n");
 		printf("Options:\n");
 		printf("-?       : Display this help information.\n");
